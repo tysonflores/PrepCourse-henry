@@ -1,2 +1,2 @@
 # PrepCourse-hunry
-este es un repositorio de prueba del módulo 2 de Henry
+prueba 2 de henry jaja
